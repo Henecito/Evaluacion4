@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/EV4/static/css/main.53b47e6d.css",
-    "main.js": "/EV4/static/js/main.32140f0a.js",
-    "static/js/453.91568c0c.chunk.js": "/EV4/static/js/453.91568c0c.chunk.js",
-    "static/media/Logo.JPEG": "/EV4/static/media/Logo.7f1a6328089875d59957.JPEG",
-    "static/media/consola.jpg": "/EV4/static/media/consola.8d8b2bff9211d3187fe5.jpg",
-    "static/media/bateria.jpeg": "/EV4/static/media/bateria.6356f4caac426936409e.jpeg",
-    "static/media/computadora.jpg": "/EV4/static/media/computadora.50177f13b45214c0b0d7.jpg",
-    "static/media/pantalla.webp": "/EV4/static/media/pantalla.3eb8538dc76b15aac2b9.webp",
-    "index.html": "/EV4/index.html",
-    "main.53b47e6d.css.map": "/EV4/static/css/main.53b47e6d.css.map",
-    "main.32140f0a.js.map": "/EV4/static/js/main.32140f0a.js.map",
-    "453.91568c0c.chunk.js.map": "/EV4/static/js/453.91568c0c.chunk.js.map"
+    "main.css": "/Evaluacion4/static/css/main.53b47e6d.css",
+    "main.js": "/Evaluacion4/static/js/main.6c2d7d57.js",
+    "static/js/453.91568c0c.chunk.js": "/Evaluacion4/static/js/453.91568c0c.chunk.js",
+    "static/media/Logo.JPEG": "/Evaluacion4/static/media/Logo.7f1a6328089875d59957.JPEG",
+    "static/media/consola.jpg": "/Evaluacion4/static/media/consola.8d8b2bff9211d3187fe5.jpg",
+    "static/media/bateria.jpeg": "/Evaluacion4/static/media/bateria.6356f4caac426936409e.jpeg",
+    "static/media/computadora.jpg": "/Evaluacion4/static/media/computadora.50177f13b45214c0b0d7.jpg",
+    "static/media/pantalla.webp": "/Evaluacion4/static/media/pantalla.3eb8538dc76b15aac2b9.webp",
+    "index.html": "/Evaluacion4/index.html",
+    "main.53b47e6d.css.map": "/Evaluacion4/static/css/main.53b47e6d.css.map",
+    "main.6c2d7d57.js.map": "/Evaluacion4/static/js/main.6c2d7d57.js.map",
+    "453.91568c0c.chunk.js.map": "/Evaluacion4/static/js/453.91568c0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53b47e6d.css",
-    "static/js/main.32140f0a.js"
+    "static/js/main.6c2d7d57.js"
   ]
 }
